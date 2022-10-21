@@ -3,3 +3,5 @@ A Visual Studio Code theme for the pastel color fams. An ideal theme for everyda
 # Images
 ![React-next](icons/react-next.png)
 ![Java-spigot](icons/java-spigot.png)
+# Donate
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/meinanziiii)
