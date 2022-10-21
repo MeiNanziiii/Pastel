@@ -9,10 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/oplotDev/pastel.git",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "MeiNanziiii",
+        "label": "Pastel",
         "uiTheme": "vs-dark",
         "path": "./themes/Pastel.json"
       }
