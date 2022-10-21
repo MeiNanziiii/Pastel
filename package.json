@@ -1,7 +1,8 @@
 {
-  "name": "pastel",
+  "publisher": "MeiNanziiii",
+  "name": "mei-pastel",
   "displayName": "Pastel",
-  "description": "Theme for VSCode",
+  "description": "Pastel theme for VSCode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
