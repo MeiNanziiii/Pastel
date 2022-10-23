@@ -3,11 +3,27 @@
   "name": "mei-pastel",
   "displayName": "Pastel",
   "description": "Pastel theme for VSCode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.72.0"
   },
   "icon": "icons/icon.png",
+  "galleryBanner": {
+    "color": "#FFC0CB",
+    "theme": "light"
+  },
+  "keywords": [
+    "pastel",
+    "night",
+    "night colors",
+    "night pastel",
+    "dark colors",
+    "pastel",
+    "pink",
+    "colorful",
+    "dark mode",
+    "syntax"
+  ],
   "categories": [
     "Themes"
   ],
